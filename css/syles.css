@@ -1,0 +1,29 @@
+body {
+  background-color: #f6dfeb;
+}
+
+hr {
+  background-color: #f6dfeb;
+  height: inherit;
+  width: 30%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: pink;
+  border-width: 5px;
+}
+
+img {
+  height: 250px
+}
+
+h3 {
+  color: pink;
+}
+
+a {
+  color: #ff96ad;
+}
+
+h1 {
+  color: #ff96ad;
+}
